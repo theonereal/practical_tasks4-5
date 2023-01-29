@@ -1,0 +1,15 @@
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\bin\Debug\net6.0\Seminar4z1.exe
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\bin\Debug\net6.0\Seminar4z1.deps.json
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\bin\Debug\net6.0\Seminar4z1.runtimeconfig.json
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\bin\Debug\net6.0\Seminar4z1.dll
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\bin\Debug\net6.0\Seminar4z1.pdb
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\obj\Debug\net6.0\Seminar4z1.csproj.AssemblyReference.cache
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\obj\Debug\net6.0\Seminar4z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\obj\Debug\net6.0\Seminar4z1.AssemblyInfoInputs.cache
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\obj\Debug\net6.0\Seminar4z1.AssemblyInfo.cs
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\obj\Debug\net6.0\Seminar4z1.csproj.CoreCompileInputs.cache
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\obj\Debug\net6.0\Seminar4z1.dll
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\obj\Debug\net6.0\refint\Seminar4z1.dll
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\obj\Debug\net6.0\Seminar4z1.pdb
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\obj\Debug\net6.0\Seminar4z1.genruntimeconfig.cache
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ3,4\Seminar4z1\obj\Debug\net6.0\ref\Seminar4z1.dll
